@@ -1,0 +1,17 @@
+{
+  "name": "asynchronous",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "quangnt",
+  "license": "ISC",
+  "devDependencies": {
+    "yargs": "^16.2.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
